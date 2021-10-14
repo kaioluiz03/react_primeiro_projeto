@@ -1,0 +1,47 @@
+
+.form {
+    margin: 0 auto;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    background-color: silver;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+}
+
+.usuario {
+    padding: 3rem 2px 1rem 2px;
+}
+.usuario input {
+    width: 15rem;
+    height: 2rem;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+}
+
+.senha {
+    margin-bottom: 1.5rem;
+}
+.senha input {
+    width: 15rem;
+    height: 2rem;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold; 
+}
+
+.botao {
+    width: 15rem;
+    height: 2rem;
+    font-size: medium;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    border: none;
+    cursor: pointer;
+}
+
+p {
+    font-size: 13px;
+}
